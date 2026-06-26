@@ -1,0 +1,26 @@
+## Dataset Information
+
+**Dataset Name:** Global Layoffs Dataset
+
+**Source:** Kaggle
+
+**Dataset Link:** https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
+**Description:**
+The dataset contains records of company layoffs from around the world, covering multiple industries, countries, funding stages, and time periods. It includes information such as company names, locations, number of employees laid off, percentage of workforce affected, funding raised, industry, and dates of layoff events.
+
+**Features Used**
+
+| Feature             | Description                              |
+| ------------------- | ---------------------------------------- |
+| company             | Name of the company                      |
+| location            | Company location                         |
+| total_laid_off      | Total number of employees laid off       |
+| date                | Date of layoff                           |
+| percentage_laid_off | Percentage of workforce laid off         |
+| industry            | Industry of the company                  |
+| source              | News/source of information               |
+| stage               | Company funding stage                    |
+| funds_raised        | Funds raised (in millions of USD)        |
+| country             | Country where the company operates       |
+| date_added          | Date the record was added to the dataset |
