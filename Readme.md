@@ -99,6 +99,6 @@ CodeAlpha_EDA_Global_Layoffs/
 
 ## Author
 
-**Syed Sameena**
+**Syed Sameena Tasleem**
 
 Data Analytics Intern – CodeAlpha
