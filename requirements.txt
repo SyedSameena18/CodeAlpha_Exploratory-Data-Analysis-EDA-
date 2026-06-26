@@ -1,4 +1,18 @@
+## Technologies Used
+
+Python – Programming language for data analysis
+Google Colab – Cloud-based notebook for coding and analysis
+Pandas – Data loading, cleaning, and analysis
+NumPy – Numerical computations
+Matplotlib – If you created plots
+Seaborn – If you created plots
+
+## Libraries: 
+
 pandas
 numpy
 matplotlib
 seaborn
+
+## Development Environment
+Google Colab
