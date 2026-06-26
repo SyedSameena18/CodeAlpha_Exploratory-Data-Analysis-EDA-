@@ -1,6 +1,5 @@
 ## Technologies Used
 Python – Programming language for data analysis
-Google Colab – Cloud-based notebook for coding and analysis
 Pandas – Data loading, cleaning, and analysis
 NumPy – Numerical computations
 
@@ -9,4 +8,4 @@ pandas
 numpy
 
 ## Development Environment
-Google Colab
+Google Colab  – Cloud-based notebook for coding and analysis
